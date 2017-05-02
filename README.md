@@ -4,13 +4,15 @@ https://blog.jiangyayu.cn/archives/linear-equation.html/
 ### 应用程序界面
 &emsp;&emsp;应用程序包含菜单、输入输出、设置和日志模块，如图所示：  
 
-<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/1.png' />
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/1.png' />  
+
 ### 数据说明
 1. 路径说明
 &emsp;&emsp;程序启动时，会自动读取所在路径，默认的输入输出路径为应用程序目录下的input和output文件夹(下图所示)。程序计算所需的输入数据存应存放于input文件夹中，最终计算结果将输出到output文件夹中。
 也可以通过修改输入输出路径的方法，重新指定输入数据存放的位置和最终计算结果的输出位置。  
 
-<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/2.png' />
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/2.png' />  
+
 2. 数据格式  
 
 （1）输入数据
