@@ -2,27 +2,35 @@
 https://blog.jiangyayu.cn/archives/linear-equation.html/
 ## C#实现
 ### 应用程序界面
-&emsp;&emsp;应用程序包含菜单、输入输出、设置和日志模块，如图所示：
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/1.png' />
+&emsp;&emsp;应用程序包含菜单、输入输出、设置和日志模块，如图所示：  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/1.png' />
 ### 数据说明
 1. 路径说明
 &emsp;&emsp;程序启动时，会自动读取所在路径，默认的输入输出路径为应用程序目录下的input和output文件夹(下图所示)。程序计算所需的输入数据存应存放于input文件夹中，最终计算结果将输出到output文件夹中。
-也可以通过修改输入输出路径的方法，重新指定输入数据存放的位置和最终计算结果的输出位置。
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/2.png' />
+也可以通过修改输入输出路径的方法，重新指定输入数据存放的位置和最终计算结果的输出位置。  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/2.png' />
 2. 数据格式  
 
 （1）输入数据
-&emsp;&emsp;位于应用程序所在路径下的input文件夹的.txt文本文件，其数据格式为：
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/4.png' />
+&emsp;&emsp;位于应用程序所在路径下的input文件夹的.txt文本文件，其数据格式为：  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/4.png' />  
+
 第一行为线性方程组的未知数个数；
 第二行起的数据代表线性方程组系数的增广矩阵，每一行表示一个线性方程。  
 
 （2）输出结果
 &emsp;&emsp;位于应用程序所在路径下的output文件夹的.txt文本文件，其数据格式为：
-从第一行开始分别表示线性方程组的解x1,x2,x3,…的值，最后两行分别标识所使用迭代方法和迭代次数。
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/5.png' />
-### 参数设置
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/6.png' />
+从第一行开始分别表示线性方程组的解x1,x2,x3,…的值，最后两行分别标识所使用迭代方法和迭代次数。  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/5.png' />  
+
+### 参数设置  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/6.png' />  
+
 如图所示部分为迭代求解过程中的参数数值的设定，
 **最大迭代次数：**指示迭代过程中，最大迭代的次数。迭代次数超过该值时停止迭代。
 **收敛标准（ε）:**当两次迭代所得数值之差的绝对值均小于某一给定的数ε时，视为已求得近似解。此时停止迭代，输出结果。
@@ -37,31 +45,51 @@ https://blog.jiangyayu.cn/archives/linear-equation.html/
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Ω=1时，即为高斯-塞德尔迭代；
 
 ### 计算说明
-（1）	应用程序会遍历输入文件夹中的所有.txt文件，按照指定的数据格式读取文件
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/8.png' />
-读取的输入文件格式为：
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/4.png' />
+（1）	应用程序会遍历输入文件夹中的所有.txt文件，按照指定的数据格式读取文件  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/8.png' />  
+
+读取的输入文件格式为：  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/4.png' />  
+
 第一行为线性方程组的未知数个数；
 第二行起的数据代表线性方程组系数的增广矩阵，每一行表示一个线性方程。
-（2）	可以根据文件内容生成并显示方程
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/9.png' />
+（2）	可以根据文件内容生成并显示方程  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/9.png' />  
+
 （3）	根据指定的参数和迭代方法求解方程组
-（4）	显示求解结果
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/10.png' />
-（5）	将最终结果存放至输出文件夹中，并命名为xxx_solution.txt
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/11.png' />
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/5.png' />
+（4）	显示求解结果  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/10.png' />  
+
+（5）	将最终结果存放至输出文件夹中，并命名为`xxx_solution.txt`  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/11.png' />  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/5.png' />  
+
 从第一行开始分别表示线性方程组的解x1,x2,x3,…的值，最后两行分别标识所使用迭代方法和迭代次数。
 ### 异常处理
-（1）	路径错误
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/12.png' />
-（2） 文件为空
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/13.png' />
-（3） 数据内容错误
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/14.png' />
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/15.png' />
-（4） 解不收敛
-<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/16.png' />
+（1）	路径错误  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/12.png' />  
+
+（2） 文件为空  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/13.png' />  
+
+（3） 数据内容错误  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/14.png' />  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/15.png' />  
+
+（4） 解不收敛  
+
+<img src='http://om6xwwljy.bkt.clouddn.com/linear-equation/16.png' />  
+
 ### 关键步骤代码
 迭代部分的源码：
 ```csharp
