@@ -1,48 +1,28 @@
 # 迭代法求解线性方程组
-当直接求解方程组 $Ax = b$ 较困难时, 我们可以求解一个近似方程组
-$$Mx = b$$
-设其解为 $x^{(1)}$
-易知它与真解之间的误差满足
-$$A\left(x\_{*}-x^{(1)}\right) = b-Ax^{(1)}$$
-如果 $x^{(1)}$ 已经满足精度要求, 则停止计算, 否则需要修正。
-<!--more-->
-设修正量为$\Delta x$ 显然$\Delta x$满足方程 $A\Delta x = b-Ax^{(1)}$. 但由于直接求解该方程比较困难, 因此我们还是求解近似
-$$M\Delta x = b − Ax^{(1)}$$
-于是得到修正后的近似解
-$$ x^{(2)}= x^{(1)}+\Delta x = x^{(1)}+M^{-1}\left(b-Ax^{(1)}\right) $$
-若$x^{(2)}$已经满足精度要求, 则停止计算, 否则继续按以上的方式进行修正。
-不断重复以上步骤, 于是, 我们就得到一个序列
-$$x^{(1)},x^{(2)},...,x^{(k)},...$$
-满足以下递推关系:
-$$x^{(k+1)}=x^{(k)}+M^{-1}\left(b-Ax^{(k)}\right),  k=1,2,...$$
-由于每次迭代的格式是一样的, 因此称为定常迭代。
-
-**注：**通常, 构造一个好的定常迭代, 需要考虑以下两点:
-(1) 以$M$为系数矩阵的线性方程组必须要比原线性方程组容易求解;
-(2) $M$应该是$A$的一个很好的近似, 或者迭代序列${x^{k}}$要收敛
-
+https://blog.jiangyayu.cn/archives/linear-equation.html/
 ## C#实现
 ### 应用程序界面
 &emsp;&emsp;应用程序包含菜单、输入输出、设置和日志模块，如图所示：
-<img src='//source.jiangyayu.cn/linear-equation/1.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/1.png' />
 ### 数据说明
 1. 路径说明
 &emsp;&emsp;程序启动时，会自动读取所在路径，默认的输入输出路径为应用程序目录下的input和output文件夹(下图所示)。程序计算所需的输入数据存应存放于input文件夹中，最终计算结果将输出到output文件夹中。
 也可以通过修改输入输出路径的方法，重新指定输入数据存放的位置和最终计算结果的输出位置。
-<img src='//source.jiangyayu.cn/linear-equation/2.png' />
-2. 数据格式
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/2.png' />
+2. 数据格式  
+
 （1）输入数据
 &emsp;&emsp;位于应用程序所在路径下的input文件夹的.txt文本文件，其数据格式为：
-<img src='//source.jiangyayu.cn/linear-equation/4.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/4.png' />
 第一行为线性方程组的未知数个数；
-第二行起的数据代表线性方程组系数的增广矩阵，每一行表示一个线性方程。
+第二行起的数据代表线性方程组系数的增广矩阵，每一行表示一个线性方程。  
 
 （2）输出结果
 &emsp;&emsp;位于应用程序所在路径下的output文件夹的.txt文本文件，其数据格式为：
 从第一行开始分别表示线性方程组的解x1,x2,x3,…的值，最后两行分别标识所使用迭代方法和迭代次数。
-<img src='//source.jiangyayu.cn/linear-equation/5.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/5.png' />
 ### 参数设置
-<img src='//source.jiangyayu.cn/linear-equation/6.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/6.png' />
 如图所示部分为迭代求解过程中的参数数值的设定，
 **最大迭代次数：**指示迭代过程中，最大迭代的次数。迭代次数超过该值时停止迭代。
 **收敛标准（ε）:**当两次迭代所得数值之差的绝对值均小于某一给定的数ε时，视为已求得近似解。此时停止迭代，输出结果。
@@ -58,30 +38,30 @@ $$x^{(k+1)}=x^{(k)}+M^{-1}\left(b-Ax^{(k)}\right),  k=1,2,...$$
 
 ### 计算说明
 （1）	应用程序会遍历输入文件夹中的所有.txt文件，按照指定的数据格式读取文件
-<img src='//source.jiangyayu.cn/linear-equation/8.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/8.png' />
 读取的输入文件格式为：
-<img src='//source.jiangyayu.cn/linear-equation/4.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/4.png' />
 第一行为线性方程组的未知数个数；
 第二行起的数据代表线性方程组系数的增广矩阵，每一行表示一个线性方程。
 （2）	可以根据文件内容生成并显示方程
-<img src='//source.jiangyayu.cn/linear-equation/9.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/9.png' />
 （3）	根据指定的参数和迭代方法求解方程组
 （4）	显示求解结果
-<img src='//source.jiangyayu.cn/linear-equation/10.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/10.png' />
 （5）	将最终结果存放至输出文件夹中，并命名为xxx_solution.txt
-<img src='//source.jiangyayu.cn/linear-equation/11.png' />
-<img src='//source.jiangyayu.cn/linear-equation/5.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/11.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/5.png' />
 从第一行开始分别表示线性方程组的解x1,x2,x3,…的值，最后两行分别标识所使用迭代方法和迭代次数。
 ### 异常处理
 （1）	路径错误
-<img src='//source.jiangyayu.cn/linear-equation/12.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/12.png' />
 （2） 文件为空
-<img src='//source.jiangyayu.cn/linear-equation/13.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/13.png' />
 （3） 数据内容错误
-<img src='//source.jiangyayu.cn/linear-equation/14.png' />
-<img src='//source.jiangyayu.cn/linear-equation/15.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/14.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/15.png' />
 （4） 解不收敛
-<img src='//source.jiangyayu.cn/linear-equation/16.png' />
+<img src='//om6xwwljy.bkt.clouddn.com/linear-equation/16.png' />
 ### 关键步骤代码
 迭代部分的源码：
 ```csharp
