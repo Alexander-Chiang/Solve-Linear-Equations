@@ -1,0 +1,16 @@
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\bin\Release\Framework.dll.config
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\bin\Release\Framework.dll
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\bin\Release\Framework.pdb
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\bin\Release\ChnCharInfo.dll
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\bin\Release\log4net.dll
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\obj\Release\Framework.dll
+C:\Users\Yayu\Desktop\ID\源代码\利福特ID电梯智能控制系统\Framework\obj\Release\Framework.pdb
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\bin\Release\Framework.dll.config
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\bin\Release\Framework.dll
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\bin\Release\Framework.pdb
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\bin\Release\ChnCharInfo.dll
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\bin\Release\log4net.dll
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\obj\Release\Framework.dll
+C:\Users\yayuj\Desktop\利福特ID电梯智能控制系统\Framework\obj\Release\Framework.pdb

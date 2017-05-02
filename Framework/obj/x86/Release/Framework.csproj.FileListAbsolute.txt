@@ -1,0 +1,7 @@
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Release\Framework.dll.config
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Release\Framework.dll
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Release\Framework.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\bin\x86\Release\log4net.dll
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\obj\x86\Release\Framework.dll
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\obj\x86\Release\Framework.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Framework\obj\x86\Release\Framework.csprojResolveAssemblyReference.cache

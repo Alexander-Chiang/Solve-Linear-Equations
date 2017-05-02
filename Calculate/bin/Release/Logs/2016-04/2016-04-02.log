@@ -1,0 +1,700 @@
+﻿2016-04-02 21:11:36,646 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:12:39,318 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:13:51,383 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:16:41,307 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:19:55,523 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:22:07,635 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:23:10,622 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:23:27,482 [10] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:23:42,789 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:24:15,110 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:25:55,452 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:26:01,814 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:26:03,344 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:26:04,853 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:26:06,581 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:26:40,634 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:26:47,580 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:32:04,719 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 21:32:13,811 [9] INFO   
+ - 选择方程组解输出文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 21:39:25,845 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 21:39:34,208 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 21:39:36,188 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 21:39:36,191 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 21:39:36,204 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:39:36,219 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:39:36,231 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:39:36,242 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:39:36,254 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:41:28,439 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 21:41:29,954 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 21:41:29,957 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 21:41:29,970 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:41:29,982 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:41:29,994 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:41:30,006 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:41:30,018 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 159
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:59:35,194 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 21:59:39,947 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 21:59:39,951 [9] INFO   
+ - 求解方程为：
+1x0+1+1+1+1=15
+1x0+2+1+1+1=16
+1x0+1+2+1+1=17
+1x0+1+1+2+1=18
+1x0+1+1+1+2=19
+
+2016-04-02 21:59:39,957 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 21:59:39,961 [9] INFO   
+ - 求解方程为：
+10x0-2-1=3
+-2x0+10-1=15
+-1x0-2+5=10
+
+2016-04-02 21:59:39,974 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:59:39,986 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:59:39,997 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:59:40,010 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 21:59:40,022 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:02:26,852 [8] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 22:02:35,078 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:02:38,374 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:02:38,379 [8] INFO   
+ - 求解方程为：
+1X0+X+X+X+X=15
+1X0+2X+X+X+X=16
+1X0+X+2X+X+X=17
+1X0+X+X+2X+X=18
+1X0+X+X+X+2X=19
+
+2016-04-02 22:02:38,384 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:02:38,389 [8] INFO   
+ - 求解方程为：
+10X0-2X-1X=3
+-2X0+10X-1X=15
+-1X0-2X+5X=10
+
+2016-04-02 22:02:38,403 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:02:38,414 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:02:38,426 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:02:38,439 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:02:38,451 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:05:22,521 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:05:23,538 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:05:23,542 [8] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:05:23,548 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:05:23,552 [8] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:05:23,566 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:05:23,579 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:05:23,590 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:05:23,602 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:05:23,613 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 163
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 142
+2016-04-02 22:31:44,340 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 22:31:55,171 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:31:56,532 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:31:56,536 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:32:17,763 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:32:21,115 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:32:21,120 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:35:07,957 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:35:12,482 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:35:12,487 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:35:12,502 [9] ERROR  
+ - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 160
+2016-04-02 22:35:12,506 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:35:12,509 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:35:12,521 [9] ERROR  
+ - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 160
+2016-04-02 22:35:12,533 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 178
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:36:33,898 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:36:38,403 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:36:54,420 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:37:04,567 [9] ERROR  
+ - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 160
+2016-04-02 22:37:04,571 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:37:19,635 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:37:25,581 [9] ERROR  
+ - System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 160
+2016-04-02 22:37:25,593 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 178
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:37:41,879 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:37:45,826 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:37:45,830 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:39:08,537 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:39:11,346 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:39:11,350 [8] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:39:16,317 [8] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.solveLinearEqu.Jacobi(List`1 c, Int32 IterativeTimes, Double Epsilon, Int32& t, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\solveLinearEqu.cs:行号 62
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 99
+2016-04-02 22:39:23,123 [8] INFO   
+ - 方程组的解：
+X0=0
+X1=0
+X2=0
+X3=0
+X4=0
+
+2016-04-02 22:39:23,128 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:39:23,132 [8] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:39:24,795 [8] INFO   
+ - 方程组的解：
+X0=0.999975288
+X1=1.99997530848
+X2=2.99995929728
+
+2016-04-02 22:39:24,808 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 178
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:40:12,317 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:40:14,416 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:40:14,421 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:40:24,206 [9] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.solveLinearEqu.Jacobi(List`1 c, Int32 IterativeTimes, Double Epsilon, Int32& t, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\solveLinearEqu.cs:行号 62
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 99
+2016-04-02 22:41:03,299 [9] INFO   
+ - 方程组的解：
+X0=0
+X1=0
+X2=0
+X3=0
+X4=0
+
+2016-04-02 22:41:23,891 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:41:25,099 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:41:54,259 [9] INFO   
+ - 方程组的解：
+X0=0.999975288
+X1=1.99997530848
+X2=2.99995929728
+
+2016-04-02 22:42:05,789 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 178
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:43:16,903 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:43:21,492 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:43:21,496 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:43:21,512 [9] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.solveLinearEqu.Jacobi(List`1 c, Int32 IterativeTimes, Double Epsilon, Int32& t, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\solveLinearEqu.cs:行号 62
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 99
+2016-04-02 22:43:21,516 [9] INFO   
+ - 方程组的解：
+X0=0
+X1=0
+X2=0
+X3=0
+X4=0
+
+2016-04-02 22:43:21,520 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:43:21,523 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:43:21,527 [9] INFO   
+ - 方程组的解：
+X0=0.999975288
+X1=1.99997530848
+X2=2.99995929728
+
+2016-04-02 22:43:21,539 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 179
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:45:12,949 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:45:39,975 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:45:39,980 [8] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:45:47,942 [8] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.solveLinearEqu.Jacobi(List`1 c, Int32 IterativeTimes, Double Epsilon, Int32& t, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\solveLinearEqu.cs:行号 62
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 99
+2016-04-02 22:46:07,677 [8] INFO   
+ - 方程组的解：
+X0=0
+X1=0
+X2=0
+X3=0
+X4=0
+
+2016-04-02 22:46:18,291 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:46:18,858 [8] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:46:30,771 [8] INFO   
+ - 方程组的解：
+X0=0.999975288
+X1=1.99997530848
+X2=2.99995929728
+
+2016-04-02 22:46:36,186 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 179
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:49:39,674 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:49:42,910 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:49:42,914 [8] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:49:48,483 [8] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 103
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 161
+2016-04-02 22:49:48,487 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:49:48,490 [8] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:49:50,328 [8] INFO   
+ - 方程组的解：
+X0=0.999975288
+X1=1.99997530848
+X2=2.99995929728
+
+2016-04-02 22:49:50,341 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 179
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 22:53:45,082 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Adobe\Premiere Pro\7.0\Profile-Yayu.Jiang
+2016-04-02 22:53:49,054 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Adobe
+2016-04-02 22:54:47,293 [8] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 22:54:50,345 [8] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 22:54:50,350 [8] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 22:54:50,516 [8] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 103
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 161
+2016-04-02 22:54:50,522 [8] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 22:54:50,527 [8] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 22:54:50,531 [8] INFO   
+ - 方程组的解：
+X0=0.999975288
+X1=1.99997530848
+X2=2.99995929728
+
+2016-04-02 22:54:50,547 [8] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 179
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:03:42,720 [9] ERROR  
+ - d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input 路径不存在!
+2016-04-02 23:03:50,830 [9] INFO   
+ - 选择方程组文件存放路径：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2
+2016-04-02 23:03:52,634 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 23:03:52,638 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 23:03:52,661 [9] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 103
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 161
+2016-04-02 23:03:52,665 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 23:03:52,670 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 23:03:52,677 [9] INFO   
+ - 方程组的解：
+X0=1
+X1=2
+X2=3
+
+2016-04-02 23:03:52,691 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:03:52,703 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:03:52,715 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:03:52,727 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:03:52,738 [9] ERROR  
+ - System.Exception: 文件错误：D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input2\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:04:50,040 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 23:04:50,050 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 23:04:55,799 [9] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 103
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 161
+2016-04-02 23:04:55,803 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 23:04:55,807 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 23:04:55,811 [9] INFO   
+ - 方程组的解：
+X0=1
+X1=2
+X2=3
+
+2016-04-02 23:04:55,824 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:04:55,838 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:04:55,850 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:04:55,861 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:04:55,874 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:05:09,963 [9] INFO   
+ - 读取文件：新建文本文档1.txt
+2016-04-02 23:05:09,974 [9] INFO   
+ - 求解方程为：
+X0+X1+X2+X3+X4=15
+X0+2X1+X2+X3+X4=16
+X0+X1+2X2+X3+X4=17
+X0+X1+X2+2X3+X4=18
+X0+X1+X2+X3+2X4=19
+
+2016-04-02 23:05:09,996 [9] ERROR  
+ - System.Exception: 错误：方程解出现NaN或者无穷大,请验证方程组的收敛性！
+   在 迭代法求解线性方程组.MainForm.CalcSolution(CalcMethods method, List`1 d, Double[] solution) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 103
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 161
+2016-04-02 23:05:09,999 [9] INFO   
+ - 读取文件：新建文本文档2.txt
+2016-04-02 23:05:10,003 [9] INFO   
+ - 求解方程为：
+10X0-2X1-1X2=3
+-2X0+10X1-1X2=15
+-1X0-2X1+5X2=10
+
+2016-04-02 23:05:12,021 [9] INFO   
+ - 方程组的解：
+X0=1
+X1=2
+X2=3
+
+2016-04-02 23:05:12,034 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档3.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:05:12,047 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档4.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:05:12,059 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档5.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:05:12,070 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档6.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149
+2016-04-02 23:05:12,083 [9] ERROR  
+ - System.Exception: 文件错误：d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\input\新建文本文档7.txt文件为空！
+   在 迭代法求解线性方程组.MainForm.readData(String filePath) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 183
+   在 迭代法求解线性方程组.MainForm.btnCalc_Click_1(Object sender, EventArgs e) 位置 d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\Form1.cs:行号 149

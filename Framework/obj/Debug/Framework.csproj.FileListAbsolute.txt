@@ -1,0 +1,8 @@
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\bin\Debug\Framework.dll.config
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\bin\Debug\Framework.dll
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\bin\Debug\Framework.pdb
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\bin\Debug\ChnCharInfo.dll
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\bin\Debug\log4net.dll
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\obj\Debug\Framework.dll
+C:\Users\Yayu\Desktop\ID _backup\源代码\利福特ID电梯智能控制系统\Framework\obj\Debug\Framework.pdb

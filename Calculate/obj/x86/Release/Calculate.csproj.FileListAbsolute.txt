@@ -1,0 +1,15 @@
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\迭代法求解线性方程组.exe.config
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\App.config
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\迭代法求解线性方程组.exe
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\迭代法求解线性方程组.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\Framework.dll
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\log4net.dll
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\Framework.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\Calculate.csprojResolveAssemblyReference.cache
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\迭代法求解线性方程组.MainForm.resources
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\迭代法求解线性方程组.Properties.Resources.resources
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\Calculate.csproj.GenerateResource.Cache
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\迭代法求解线性方程组.exe
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\迭代法求解线性方程组.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Release\迭代法求解线性方程组.AboutBox.resources
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Release\操作手册.mht

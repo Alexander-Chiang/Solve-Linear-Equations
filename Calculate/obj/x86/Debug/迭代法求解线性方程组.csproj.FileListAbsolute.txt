@@ -1,0 +1,8 @@
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\bin\Debug\迭代法求解线性方程组.exe
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\bin\Debug\迭代法求解线性方程组.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\obj\x86\Debug\迭代法求解线性方程组.MainForm.resources
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\obj\x86\Debug\迭代法求解线性方程组.Properties.Resources.resources
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\obj\x86\Debug\迭代法求解线性方程组.csproj.GenerateResource.Cache
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\obj\x86\Debug\迭代法求解线性方程组.exe
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\obj\x86\Debug\迭代法求解线性方程组.pdb
+d:\library\documents\visual studio 2010\Projects\迭代法求解线性方程组\迭代法求解线性方程组\bin\Debug\log4net.dll

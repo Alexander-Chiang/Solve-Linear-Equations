@@ -1,0 +1,13 @@
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Debug\迭代法求解线性方程组.exe
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Debug\迭代法求解线性方程组.pdb
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\迭代法求解线性方程组.exe
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\迭代法求解线性方程组.pdb
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Debug\Calculate.csprojResolveAssemblyReference.cache
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Debug\迭代法求解线性方程组.MainForm.resources
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Debug\迭代法求解线性方程组.Properties.Resources.resources
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\obj\x86\Debug\Calculate.csproj.GenerateResource.Cache
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\log4net.dll
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\迭代法求解线性方程组.exe.config
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\Framework.dll
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\Framework.pdb
+D:\library\Documents\Visual Studio 2010\Projects\迭代法求解线性方程组\Calculate\bin\Debug\App.config
